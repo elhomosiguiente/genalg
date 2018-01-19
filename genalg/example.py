@@ -1,12 +1,3 @@
-# genalg
-
-genetic algorithm in python, adapted from this [tutorial](http://www.ai-junkie.com/ga/intro/gat1.html).
-
-## Example:
-
-To run the example: `python3 genalg/example.py`
-
-```python
 from genalg import *
 
 if __name__ == '__main__':
@@ -68,4 +59,3 @@ if __name__ == '__main__':
     ## example output:
     ## Solution (iters=4): 2-2-9+8-7+3+6-1+4+4*7-7+1=50
     ## Note: doesn't follow order of operations; just go left to right
-```

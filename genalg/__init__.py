@@ -1,1 +1,1 @@
-from .genalg import Genes, Environment
+from .genalg import Op, Genome, Environment
